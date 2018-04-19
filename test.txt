@@ -1,1 +1,2 @@
 essai de fichier git
+fichier modifié pour complement d information
